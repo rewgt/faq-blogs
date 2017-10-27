@@ -1,0 +1,46 @@
+FAQ 4：rewgt/blogs 项目
+----------
+
+&nbsp;
+
+本文用来整理 “rewgt/blogs 项目” 方面的 FAQ，如果您有疑问请在此提交。
+
+&nbsp;
+
+说明：如果您在使用 Shadow Widget 编程系统时有疑问，请在文章末尾点击 “I wanna leave a comment ...” 按钮提交问题。其他用户可能会解答，Shadow Widget 的开发人员也会不定期为大家答疑。
+
+请大家在提交问题前，先查阅用户手册，尝试自行找到答案，或翻阅已有的他人提问，如果还没解决，再在本博客提交疑问。
+
+我们尝试从大家的真实提问中，整理 Shadow Widget 的 FAQ，按如下分类分别整理：
+
+1. shadow-widget 实现技术   
+对应于 Shadow Widget 用户手册的 “理论篇”、“基础篇”、“进阶篇” 与 “API 手册”
+
+2. web 可视化设计   
+对应于 Shadow Widget 用户手册的 “可视化设计使用手册”
+
+3. rewgt/shadow-bootstrap 项目   
+关于 [rewgt/shadow-bootstrap](https://github.com/rewgt/shadow-bootstrap) 项目的使用问题
+
+4. rewgt/blogs 项目   
+关于 [rewgt/blogs](https://github.com/rewgt/blogs) 项目的使用问题
+
+5. 其它   
+以上分类未包括的问题
+
+&nbsp;
+
+本文只关注 **“4. rewgt/blogs 项目”** 方面的问题
+
+&nbsp;
+
+------
+
+以下是整理稿：（还没开始整理喔，请大家向我开炮！）
+
+##### FAQ 4.1 .....
+
+&nbsp;
+<!-- SLIDE PAGES V1.0, DO NOT CHANGE THIS LINE. -->
+<div $=ScenePage key="auto0"></div>
+<div $=ScenePage key="auto1" no-show="1"></div>
